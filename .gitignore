@@ -1,0 +1,19 @@
+# Arquivos e diretórios gerados pelo npm
+node_modules/
+package-lock.json
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos de configuração do ambiente
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de dependências do editor
+.vscode/
+.idea/
+
+# Outros arquivos e diretórios que você deseja ignorar
